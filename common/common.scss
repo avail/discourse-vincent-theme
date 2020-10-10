@@ -2010,13 +2010,13 @@ $q-background: rgba(contrast($text-base), 0.5) !default;
 }
 
 #topic-title {
-  width: 690px;
+/*  width: 690px;*/
   max-width: 100%;
 }
 
-#topic-title .title-wrapper {
+/*#topic-title .title-wrapper {
   width: 690px;
-}
+}*/
 
 #suggested-topics {
   width: 100%;
@@ -2029,7 +2029,7 @@ $q-background: rgba(contrast($text-base), 0.5) !default;
 
 .topic-post {
   width: 100%;
-  max-width: 690px;
+  /*max-width: 690px;*/
 }
 
 .post-actions {
@@ -2081,7 +2081,7 @@ $q-background: rgba(contrast($text-base), 0.5) !default;
 }
 
 .posts-wrapper {
-  width: 690px;
+  /*width: 690px;*/
   margin: 0 auto;
   max-width: 100%;
 }
