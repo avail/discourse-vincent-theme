@@ -1846,6 +1846,11 @@ html.desktop-view.not-mobile-device {
       display: none;
     }
   }
+  .topic-body {
+    display: flex;
+    justify-content: center;
+    width: 100% !important;
+  }
 }
 
 // mobile only
